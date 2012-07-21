@@ -1,0 +1,21 @@
+(July 14, 2012)
+This app was developed as my first mobile device app.  The goal was to obtain Understanding of Titanium Studio, Apple Xcode,
+and SQLite.  
+
+Changes to the sample code include:
+
+ - New intro page with Pierce Computing Consulting logo,
+
+ - New titles were added for tab options,
+ 
+ - New window titles were added,
+
+ - Added sort of My ToDo List,
+ 
+ - Added sort of My Completed Stuff,
+
+ - Added page background color for My ToDo List (Android),
+
+ - and other minor changes.
+
+_____________________________
