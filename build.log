@@ -1,0 +1,25 @@
+Logfile initialized
+[INFO] logfile = /Users/jpierce481/Documents/Titanium_Studio_Workspace/Todo List 2/build.log
+[DEBUG] /Library/Application Support/Titanium/mobilesdk/osx/2.1.0.GA/android/builder.py simulator Simple.ToDo /Applications /Users/jpierce481/Documents/Titanium_Studio_Workspace/Todo List 2 com.piercecomputing.simple.todo 1 HVGA 
+[INFO] Building Simple.ToDo for Android ... one moment
+[INFO] Titanium SDK version: 2.1.0 (06/28/12 12:16 6e3cab6)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 15 seconds)
+[DEBUG] waited 15.155004 seconds on emulator to get ready
+[INFO] Waiting for the Android Emulator to become available
+[DEBUG] com.piercecomputing.simple.todo installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... Simple.ToDo
+[INFO] Launching application ... Simple.ToDo
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.piercecomputing.simple.todo/.SimpleTodoActivity }
+
+[INFO] Android Emulator has exited
